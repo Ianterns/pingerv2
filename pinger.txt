@@ -1,6 +1,6 @@
 title discord.gg/wintr
 echo off & cls
-color A
+color F
 
 echo join discord.gg/wintr
 echo council#1337 yessur                                                            
